@@ -10,3 +10,5 @@ const h = 2;
 const j = 3;
 
 export { f, h, j };
+
+console.log("Said");
