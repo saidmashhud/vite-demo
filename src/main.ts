@@ -7,3 +7,5 @@ console.log(b);
 console.log(c);
 
 console.log(key);
+
+console.log(j, h, f);
