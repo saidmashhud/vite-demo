@@ -17,5 +17,5 @@ type Company = {
 
 const company1: Company = {
 	course: "JS",
-	title: "company1",
+	title: "company2",
 };
